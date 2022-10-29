@@ -127,8 +127,6 @@ app.get("/:customListName", function(req,res){
     }
   });
 
-  // Y2opUIBC7EGetE2l
-  // 0awkc18zWqUR095pMPLncks7l5BkxEC2tPZrkQCTT9pz7bfou6DL72FWbBA97O28
 });
 
 app.get("/about", function(req, res){
